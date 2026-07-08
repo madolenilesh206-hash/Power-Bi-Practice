@@ -1,5 +1,4 @@
 # Power-Bi-Practice
-# Power-Bi-Practice
 📊 Project Title
 Sales Performance Analysis: Stacked Bar Chart vs Stacked Column Chart Dashboard in Power BI
 
